@@ -5,7 +5,9 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="36px" style='padding: 10px 10px 0 0' src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>](https://www.linkedin.com/in/abrahametavarez/)
 
+[<img align="left" alt="codeSTACKr | YouTube" width="36px" style='padding: 10px 10px 0 0' src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>](https://www.linkedin.com/in/abrahametavarez/)
 
+[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTavarez)](https://github.com/AbeTavarez/github-readme-stats)
 <br>
 <br>
 <br>
@@ -23,4 +25,4 @@
 <br>
 <br>
 
-<!-- [![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTavarez)](https://github.com/AbeTavarez/github-readme-stats) -->
+
