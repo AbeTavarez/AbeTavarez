@@ -2,7 +2,7 @@
 A little about me:
 - :octocat: I'm a developer and Software Engineering Instructor.
 - :books:  I enjoy working with JavaScript, React, NodeJS and Python.
-- :blue_heart: Interested in collaborating with others
+- :blue_heart: I like collaborating with others and buildiong fun projects.
 - :sunglasses: Fun Facts: I love water sports, anime and video games! 
 
 ## Where else can you find me?
@@ -13,7 +13,7 @@ A little about me:
 <br>
 <br>
 
-![Abraham's GitHub stats](http://github-readme-stats-git-master-abetavarez.vercel.app/api?username=AbeTavarez&show_icons=true&count_private=true)
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTavarez&theme=radical&show_icons=true&count_private=true)
 
 <br>
 <br>
