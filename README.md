@@ -2,7 +2,7 @@
 A little about me:
 - :octocat: I'm a developer and Software Engineering Instructor.
 - :books:  I enjoy working with JavaScript, React, NodeJS and Python.
-- :blue_heart: I like collaborating with others and buildiong fun projects.
+- :blue_heart: I like collaborating with others and building fun projects.
 - :sunglasses: Fun Facts: I love water sports, anime and video games! 
 
 ## Where else can you find me?
