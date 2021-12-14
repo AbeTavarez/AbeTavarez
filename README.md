@@ -1,6 +1,11 @@
-# **Hi there, I'm Abraham, Welcome to my Github!**
+# **Hey Devs!:wave:, I'm Abraham, Welcome to my Github!**
+A little about me:
+- :octocat: I'm a developer and Software Engineering Instructor.
+- :books:  I enjoy working with JavaScript, React, NodeJS and Python.
+- :blue_heart: Interested in collaborating with others
+- :sunglasses: Fun Facts: I love water sports, anime and video games! 
 
-## Let's Connect!
+## Where else can you find me?
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="36px" style='padding: 10px 10px 0 0' src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>](https://www.linkedin.com/in/abrahametavarez/)
 
