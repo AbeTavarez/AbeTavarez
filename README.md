@@ -1,5 +1,6 @@
-# **Hey Devs!:wave:, I'm Abraham, Welcome to my Github!**
-A little about me:
+# :wave:**Hey Devs!, I'm Abraham.**
+*Welcome to my Github! Here is a little info about me:*
+
 - :octocat: I'm a developer and Software Engineering Instructor.
 - :books:  I enjoy working with JavaScript, React, NodeJS and Python.
 - :blue_heart: I like collaborating with others and building fun projects.
