@@ -8,7 +8,7 @@
 <br>
 <br>
 
-![Abraham's GitHub stats](http://github-readme-stats-abetavarez.vercel.app/api?username=AbeTavarez&show_icons=true&count_private=true)
+![Abraham's GitHub stats](http://github-readme-stats-git-master-abetavarez.vercel.app/api?username=AbeTavarez&show_icons=true&count_private=true)
 
 <br>
 <br>
