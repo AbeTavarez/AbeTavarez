@@ -8,7 +8,7 @@
 
 ## Where else can you find me?
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="36px" style='padding: 10px 10px 0 0' src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>](https://www.linkedin.com/in/abrahametavarez/)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>](https://www.linkedin.com/in/abrahametavarez/)
 
 [<img src="https://img.icons8.com/fluency/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCsKM1yW-g1VRsC1kcspXegQ)
 
