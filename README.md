@@ -2,9 +2,9 @@
 *Welcome to my Github! Here is a little info about me:*
 
 - :octocat: I'm a Developer and Software Engineering Instructor.
-- :books:  I enjoy working with JavaScript, React, NodeJS and Python.
-- :blue_heart: I like collaborating with others and building fun projects.
-- :sunglasses: Fun Facts: I love water sports, anime and video games! 
+- :books:  I enjoy working with JavaScript, React, NodeJS, TypeScript and Python.
+- :blue_heart: I love collaborating with others to building fun, and interesting projects at Hackathons or Open Source projects.
+- :sunglasses: Fun Facts: I love water sports, books, anime and video games! 
 
 ## Where else can you find me?
 
