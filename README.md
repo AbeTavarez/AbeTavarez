@@ -16,7 +16,7 @@
 <br>
 <br>
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTavarez&theme=tokyonight&show_icons=true)
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbeTavarez&theme=tokyonight&show_icons=true&count_private=true&hide_rank=true)
 
 <br>
 <br>
