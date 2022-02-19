@@ -6,8 +6,6 @@
 - :blue_heart: I love collaborating with others to building fun, and interesting projects at Hackathons or Open Source projects.
 - :sunglasses: Fun Facts: I love water sports, books, anime and video games! 
 
-![javascript frameworks](https://abe-assets-cloud.s3.us-east-2.amazonaws.com/frameworks-1x.png "frameworks")
-
 ## Where else can you find me?
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="36px"  src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>](https://www.linkedin.com/in/abrahametavarez/)
